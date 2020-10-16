@@ -1,6 +1,6 @@
 #page-landing {
-  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
-
+  /* background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%); */
+  background: linear-gradient(329.54deg, #8338ec 0%, #00c7c7 100%);
   text-align: center;
   min-height: 100vh;
 

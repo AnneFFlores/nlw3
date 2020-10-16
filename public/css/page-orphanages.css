@@ -6,7 +6,7 @@
 
 aside {
   width: clamp(24rem, 25vw, 44rem);
-  background: linear-gradient(329.54deg, #15b6d6 0%, #15d6d6);
+  background: linear-gradient(329.54deg, #8338ec 0%, #15d6d6);
   padding: clamp(3rem, 5vw, 8rem);
   display: flex;
 

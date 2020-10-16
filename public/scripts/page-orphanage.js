@@ -4,7 +4,6 @@ const options = {
   doubleClickZoom: false,
   scrollWheelZoom: false,
   zoomControl: false,
-
 }
 
 
